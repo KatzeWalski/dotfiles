@@ -1,2 +1,1 @@
-# dotfiles
-stuff I use to config.
+just some dotfiles that i have.
